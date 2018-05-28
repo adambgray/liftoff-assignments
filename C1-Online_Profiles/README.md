@@ -13,4 +13,4 @@ For this assignment you will need to upload your resume, and provide links to yo
 [My LinkedIn](www.linkedin.com/in/AdamBGray)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+[My Resume](/C1-Online_Profiles/AdamGrayResume.docx)
